@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "酩酊華",
+  "base_artist": "あすくーる",
+  "createdAt": "2026-02-14T12:38:57.559146Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "酩酊華",
+      "artist": "あすくーる, natsumi, あらの",
+      "has_synced": false,
+      "path": "select/pl_01_酩酊華_あすくーる,_natsumi,_あらの.txt"
+    }
+  ]
+}
